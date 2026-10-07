@@ -1,0 +1,16 @@
+,values
+cat__person_home_ownership_OWN,0.19467132
+cat__loan_intent_VENTURE,0.124486126
+cat__person_home_ownership_RENT,0.1238806
+log_num__loan_percent_income,0.11913141
+cat__loan_intent_HOMEIMPROVEMENT,0.08288664
+num__loan_int_rate,0.06564607
+log_num__person_income,0.0535165
+cat__loan_intent_EDUCATION,0.04477693
+cat__loan_intent_MEDICAL,0.04440997
+cat__loan_intent_PERSONAL,0.039801896
+cat__cb_person_default_on_file_Y,0.03129654
+log_num__person_emp_length,0.021987602
+log_num__loan_amnt,0.018606765
+log_num__cb_person_cred_hist_length,0.017728698
+cat__person_home_ownership_OTHER,0.017172972

@@ -1,0 +1,6 @@
+model,accuracy,precision,recall,f1,auc
+logistic_reg,0.775,0.491,0.77,0.6,0.854
+Decision Tree,0.86,0.666,0.724,0.694,0.878
+XGB Classifier,0.903,0.775,0.786,0.78,0.94
+"NN_MODEL(32,24)",0.882,0.743,0.705,0.723,0.899
+XGB Classifier (Tuned),0.909,0.799,0.782,0.79,0.941
